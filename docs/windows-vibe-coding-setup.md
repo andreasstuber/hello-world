@@ -212,7 +212,6 @@ Common `--tools` values for different IDEs:
 | Claude Code | `claude-code` |
 | Cursor | `cursor` |
 | GitHub Copilot | `github-copilot` |
-| Windsurf | `windsurf` |
 
 To install multiple tools at once:
 
